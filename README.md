@@ -1,2 +1,4 @@
 # miproyecto
-mi primer proyecto con giteste es un proyecto de rueba con git
+mi primer proyecto con git
+este es mi primer proyecto con github
+
